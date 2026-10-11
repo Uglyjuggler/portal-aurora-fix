@@ -1,0 +1,28 @@
+HOW TO FIX AURORA STORE ON YOUR PORTAL
+======================================
+
+This folder fixes Aurora Store so it can install apps on your Portal.
+You do NOT need to type any commands. Just follow these steps:
+
+1. Unzip this whole folder somewhere on your PC (like your Desktop).
+
+2. Plug your Portal into your PC with a USB cable.
+   - Use a DATA cable. Some cheap cables only charge and will NOT work.
+   - Make sure USB debugging (ADB) is turned ON on your Portal.
+
+3. On your PORTAL screen, a message may pop up asking to allow
+   USB debugging. Tap ALLOW.
+
+4. On your PC, double-click: DOUBLE-CLICK-ME-TO-FIX.bat
+
+5. Follow what it says. It will tell you when it worked.
+
+TROUBLESHOOTING
+- I waited 30 seconds but never saw your Portal
+  -> Try a different USB cable. This fixes it 9 times out of 10.
+  -> Make sure USB debugging is actually turned on in the Portal settings.
+- It says Aurora Store is not installed
+  -> Install Aurora Store on your Portal first, then run the fix again.
+- Something went wrong
+  -> Take a screenshot of the black window and send it to the person
+     who gave you this folder.
